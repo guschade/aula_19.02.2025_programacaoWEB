@@ -2,6 +2,16 @@
 
 Este é um projeto de servidor web simples desenvolvido para a disciplina de Programação Avançada para Web na Universidade Vila Velha.
 
+## Informações da Aula
+
+- **Data:** 19/02
+- **Professor:** Wanderson Muniz
+- **Universidade:** Universidade Vila Velha
+
+- ## Autor
+
+- **Nome:** Gustavo Schade
+
 ## Descrição
 
 Este projeto implementa um servidor HTTP básico em Python que responde a diferentes rotas com mensagens HTML. O servidor é configurado para rodar na porta especificada pela variável de ambiente `PORT` ou, se não especificada, na porta 3001.
@@ -25,14 +35,3 @@ Este projeto implementa um servidor HTTP básico em Python que responde a difere
 - Acesse `http://localhost:3001/pagina1` para ver a mensagem "Estou numa página nova!".
 - Acesse `http://localhost:3001/index` para ver a página HTML `index.html` com a porta do servidor.
 
-## Autor
-
-- Gustavo Schade
-
-## Professor
-
-- Wanderson Muniz
-
-## Universidade
-
-- Universidade Vila Velha
